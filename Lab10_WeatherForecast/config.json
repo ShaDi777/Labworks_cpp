@@ -1,0 +1,6 @@
+{
+  "api_key_ninjas": "YOUR_API_KEY",
+  "city": ["Moscow", "Vatican", "Oslo", "Ottawa", "Novosibirsk"],
+  "days": 3,
+  "reload_freq_sec" : 3600
+}

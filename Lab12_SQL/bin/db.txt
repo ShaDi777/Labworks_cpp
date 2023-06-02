@@ -1,0 +1,13 @@
+student
+0 
+1 15 2 10 
+1 4 4 
+student_id name major 
+0 0 1 
+1 "Jack" "Biology" 
+2 "Kate" "Sociology" 
+3 "Claire" "English" 
+4 "Jack" "Biology" 
+5 "Mike" "Science" 
+6 "Bob" NULL 
+

@@ -1,0 +1,1 @@
+add_library(SimpleSQL SimpleSQL.cpp SimpleSQL.h)

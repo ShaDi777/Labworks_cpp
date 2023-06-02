@@ -1,0 +1,1 @@
+add_library(wordcount WordCount.cpp WordCount.h)
